@@ -18,13 +18,13 @@ global.web = "" // kosongkan jika tidak punya
 global.location = "Lampung" // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
 global.packname = "" // wm yg ada di sticker
 global.author = "bbldrizel" // wm yg ada di sticker
-global.imgUrl = "https://files.catbox.moe/jzjj0n.jpg" // ubah menggunakan !setimgreply
-global.menuimgUrl = "https://files.catbox.moe/v2n8br.jpg" // ubah menggunakan !setimgmenu
+global.imgUrl = "https://files.catbox.moe/9ezzme.jpg" // ubah menggunakan !setimgreply
+global.menuimgUrl = "https://files.catbox.moe/bh5id6.jpg" // ubah menggunakan !setimgmenu
 global.menugif = "https://files.catbox.moe/m6vt0q.mp4"
 global.bgwelcome = "https://files.catbox.moe/m6vt0q.mp4"
 global.pairing_code = true; // jika false bot akan menggunakan qr code
 
-global.linkgc = "https://chat.whatsapp.com/C9YprGwjch81wh88uCp6lu"
+global.linkgc = "https://chat.whatsapp.com/BbsR7x26VkV6hCIsq49hwa"
 
 global.sewatext = `
 (+) OPEN SEWA BOT
@@ -48,11 +48,11 @@ order here:
 // koma di atas ini jangan di hapus
 
 global.idch = "120363418582467615@newsletter"
-global.namech = "- Mayura bot -"
+global.namech = "- bbldrizel bot -"
 
 global.mess = {
     group: "Fitur Hanya Digunakan Untuk Grup!",
-    owner: "Fitur Hanya Digunakan oleh owner bot!",
+    owner: "Fitur Hanya Digunakan oleh Owner",
     Badmin: "Fitur dapat Digunakan Setelah Bot menjadi ADMIN!",
 }
 
