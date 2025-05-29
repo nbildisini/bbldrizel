@@ -1,12 +1,12 @@
 {
   "name": "bbldrizel",
-  "version": "2.0.0",
-  "description": "script made by xZiyy",
+  "version": "2.0.1",
+  "description": "Fork of clairity",
   "main": "exec.js",
   "scripts": {
     "start": "node exec.js"
   },
-  "author": "xZiyy",
+  "author": "nbildisini",
   "license": "MIT",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
