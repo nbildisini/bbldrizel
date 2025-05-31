@@ -410,7 +410,7 @@ global.mess = {
 
 
 
-global.prefa = ['!', '.', '', 'i', ' ']
+global.prefa = ['!','.','','i',' ']
 global.baileysVersion = `Baileys version ${version}`
 global.TypeBaileys = `whiskeysockets`
 global.style = "`"
